@@ -11,6 +11,7 @@ I'm an M.S. Computer Science student at **Georgia Tech**, in a dual degree with 
 | Project | What it shows |
 |---|---|
 | [**orthorag**](https://github.com/ines-naffati/orthorag) | A local RAG pipeline that drafts FDA 510(k) summaries for orthopedic implants. I built a **retrieval benchmark that needs no manual labels**: the predicate devices cited in each summary serve as relevance labels. On 150 queries, BM25 beat dense embeddings. When brand names were masked, dense retrieval lost 36–44% of its MRR, against 9% for BM25. |
+| [**Athlete-Performance-Prediction**](https://github.com/ines-naffati/Athlete-Performance-Prediction) | Predicts football results at half-time. It includes a **leakage audit** of our first model: day and month were swapped in 38% of the dates, and full-match statistics were used as inputs. That accounted for 4 points of inflated accuracy. Realistic result: 60.6% on future seasons, against 57.2% for the "half-time leader wins" rule, with a bootstrap CI and calibration checks. |
 | [**llm-bank-statement-tracker**](https://github.com/ines-naffati/llm-bank-statement-tracker) | Structured extraction from PDF bank statements with Claude or a local Ollama model. Every extraction is **checked by balance reconciliation** before it reaches the database. Includes refund allocation, budget tracking and 41 tests. |
 
 #### Experience
