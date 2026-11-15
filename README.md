@@ -2,7 +2,7 @@
 
 I'm an M.S. Computer Science student at **Georgia Tech**, in a dual degree with **IMT Atlantique** (Data Science & Decision Support). I work on **applied machine learning, retrieval and LLM systems**, and I care about measuring whether they actually work.
 
-🔎 **Looking for an ML / AI internship from January 2027** (4–6 months; US, Canada or Europe).
+🔎 **Looking for a 4–6 month ML / AI internship between January and mid-August 2027** (US, Canada or Europe).
 
 ---
 
