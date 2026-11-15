@@ -27,4 +27,4 @@ I'm an M.S. Computer Science student at **Georgia Tech**, in a dual degree with 
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/in%C3%A8s-naffati-78987032a/) · 🇫🇷 French (native) · 🇬🇧 English (IELTS 7.5) · 🇩🇪 German (B2)
+[LinkedIn](https://www.linkedin.com/in/in%C3%A8s-naffati-reni%C3%A9-78987032a/) · 🇫🇷 French (native) · 🇬🇧 English (IELTS 7.5) · 🇩🇪 German (B2)
